@@ -13,7 +13,7 @@ def repeatString(string,amount):
 def countSubstring(string, substring):
     return string.count(substring)
 #4
-secret = "сумаие не догадысшеваюи сумасшдшие лони и сумасшедшюди поэо они тому едшие —тся, чтПравду говорят — убивает не падение, а внезапная остановка в конце Втаогь ыдыз ьво, всав - атвоол"
+secret = "DASJKFASRLGJAELTRYHGJSDKTLHSПравду говорят — убивает не падение, а внезапная остановка в конце DASFASTGARTGAGASDGSGST5Y"
 def findPhrases(n1,n2):
     return secret[n1:n2]
 #5
